@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="cali_user@localhost" uuid="a6f514df-d9df-447e-86d6-2ed2e2f75de8">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/explorecali</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="explorecali@localhost" uuid="b31205e0-4229-48d5-a1a9-2a566377b248">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/explorecali</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="docker explorecali@localhost" uuid="0612e36d-b40c-4ea0-9c90-7dab202c512d">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:6604/explorecali</jdbc-url>
+    </data-source>
+  </component>
+</project>
